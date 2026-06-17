@@ -2,13 +2,13 @@
 
 # ⚡ AARUPADAIYAR KJ
 
-<img src="./ChatGPT%20Image%20May%2028,%202026,%2001_14_51%20PM.png" width="350">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=AI+Builder+%F0%9F%A4%96;Founder+of+InternshipIQ+%F0%9F%9A%80;Machine+Learning+Engineer+%F0%9F%93%88;Open+Source+Contributor+%F0%9F%8C%9F;Building+Products+for+Students+Worldwide" />
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ff69b4?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aarupadaiyarkj/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-ff69b4?style=for-the-badge&logo=github)](https://github.com/Aarupadaiyar)
-[![Email](https://img.shields.io/badge/Email-Contact-ff69b4?style=for-the-badge&logo=gmail)](mailto:aarupadaiyarjeyapal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aarupadaiyar_KJ-ff69b4?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aarupadaiyarkj/)
+[![GitHub](https://img.shields.io/badge/GitHub-Aarupadaiyar-ff69b4?style=for-the-badge&logo=github)](https://github.com/Aarupadaiyar)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-ff69b4?style=for-the-badge&logo=gmail)](mailto:aarupadaiyarjeyapal@gmail.com)
 
 </div>
 
@@ -17,31 +17,37 @@
 <table>
 <tr>
 
-<td width="35%">
+<td width="40%" align="center">
 
-<img src="./assets/profile.png" width="100%">
+<img src="./profile.png" width="350">
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Aarupadaiyar&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge">
 
 </td>
 
-<td width="65%">
+<td width="60%">
 
-## 👋 About Me
+# 👋 Welcome to My Digital Universe
 
-I'm **Aarupadaiyar KJ**, a Computer Science student passionate about building AI-powered products that solve real-world problems.
+I'm Aarupadaiyar KJ, a Computer Science Engineering student and AI builder passionate about solving real-world problems with technology.
 
-Currently building:
+Currently focused on:
 
-🚀 InternshipIQ
+🚀 Building InternshipIQ
 
-📊 Data Analytics Systems
+🤖 Machine Learning Engineering
 
-🤖 Machine Learning Applications
+📊 Data Analytics
 
-🌐 Personal Brand & Tech Content
+⚡ Backend Development
 
-My mission is simple:
+🌍 Open Source Contributions
 
-> Build tools that help students discover opportunities faster.
+### Mission
+
+Build AI products that help students discover opportunities faster.
 
 </td>
 
@@ -59,41 +65,55 @@ Class: AI Builder
 
 Level: 21
 
-Guild: Lovely Professional University
+Guild:
+Lovely Professional University
 
-Current Mission:
-Build InternshipIQ
+Alignment:
+Builder
 
-XP Earned:
-████████░░ 80%
+Current Quest:
+Scale InternshipIQ
 
-Focus:
-Machine Learning
-Backend Development
-Open Source
+Special Skills:
+- Machine Learning
+- FastAPI
+- Data Analytics
+- Problem Solving
+- Open Source
+
+Status:
+Grinding XP Daily
 ```
 
 ---
 
-# ⚔ CURRENT BOSS FIGHT
+# ⚔️ CURRENT BOSS FIGHT
 
 ```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 BOSS:
 Landing a High Impact AI Internship
 
 HP:
-███████████████░░░░░ 75%
+████████████████░░░░ 80%
+
+Progress:
+██████████████░░░░░░ 70%
 
 Weapons Equipped:
 
 ⚔ Python
-⚔ Machine Learning
 ⚔ FastAPI
+⚔ Machine Learning
 ⚔ Data Analytics
-⚔ Problem Solving
+⚔ DSA
 
 Reward:
 
-🏆 AI Engineer Role
+🏆 AI Engineer
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
@@ -108,19 +128,21 @@ Reward:
 
 ## 🎯 InternshipIQ
 
-AI Internship Discovery Engine
+### AI Internship Discovery Engine
 
-### Achievements
+#### Achievements
 
-✔ 10,000+ internships
+✔ 10,000+ Internship Listings
 
-✔ 15+ sources
+✔ 15+ Sources Integrated
 
-✔ Smart matching
+✔ Skill Matching Engine
 
-✔ Recommendation engine
+✔ Fast Search System
 
-### Tech Stack
+✔ Recommendation Pipeline
+
+#### Stack
 
 Python
 
@@ -132,33 +154,37 @@ Pandas
 
 Regex
 
+Requests
+
 </td>
 
 <td width="33%">
 
 ## 📈 Surge Price Predictor
 
-Machine Learning Forecasting System
+### Machine Learning Forecasting
 
-### Achievements
+#### Achievements
 
-✔ 10k+ rides analyzed
+✔ 10,000+ Ride Records
 
-✔ Regression models
+✔ Feature Engineering
 
-✔ Feature engineering
+✔ Regression Models
 
-✔ Demand prediction
+✔ Demand Prediction
 
-### Tech Stack
+✔ Performance Benchmarking
+
+#### Stack
 
 Python
 
-Scikit-Learn
+Pandas
 
 NumPy
 
-Pandas
+Scikit-Learn
 
 Matplotlib
 
@@ -168,9 +194,9 @@ Matplotlib
 
 ## 🌐 Portfolio Website
 
-Digital HQ
+### Digital Headquarters
 
-### Achievements
+#### Achievements
 
 ✔ Personal Branding
 
@@ -180,15 +206,17 @@ Digital HQ
 
 ✔ Responsive Design
 
-### Tech Stack
+✔ Modern UI
 
-React
+#### Stack
 
 HTML
 
 CSS
 
 JavaScript
+
+React
 
 GitHub Pages
 
@@ -202,26 +230,51 @@ GitHub Pages
 
 # 🌳 SKILL TREE
 
-### 🤖 AI & Data
+## 🤖 AI & DATA
 
 ![Python](https://img.shields.io/badge/Python-90%25-ff69b4?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-80%25-ff69b4?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-85%25-ff69b4?style=for-the-badge)
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-85%25-ff69b4?style=for-the-badge)
 
-### ⚙ Backend
+---
+
+## ⚙ BACKEND
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-80%25-ff69b4?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-75%25-ff69b4?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-80%25-ff69b4?style=for-the-badge)
 
-### 📚 CS Fundamentals
+---
 
-![DSA](https://img.shields.io/badge/DSA-70%25-ff69b4?style=for-the-badge)
+## 📚 COMPUTER SCIENCE
+
+![DSA](https://img.shields.io/badge/DSA-75%25-ff69b4?style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/DBMS-80%25-ff69b4?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-85%25-ff69b4?style=for-the-badge)
 
 ---
 
-# 📊 BATTLE STATISTICS
+# 🏆 ACHIEVEMENTS UNLOCKED
+
+```text
+🥇 Rank #1 among 200 Teams
+   Techlingua University Hackathon
+
+🌟 Official Contributor
+   GirlScript Summer of Code 2026
+
+🏅 Oracle AI Foundations Associate
+
+📊 Processed 25,000+ Business Records
+
+🚀 Built InternshipIQ
+
+🎖 Earned 58 Salesforce Badges
+```
+
+---
+
+# 📈 BATTLE STATISTICS
 
 <div align="center">
 
@@ -241,22 +294,6 @@ GitHub Pages
 
 ---
 
-# 🏆 ACHIEVEMENTS
-
-🥇 Rank #1 among 200 Teams
-
-🌟 GirlScript Summer of Code Contributor
-
-🏅 Oracle AI Foundations Associate
-
-📊 Processed 25,000+ Business Records
-
-🚀 Built InternshipIQ
-
-🎖 58 Salesforce Trailhead Badges
-
----
-
 # 🌍 WORLD MAP
 
 ```yaml
@@ -266,33 +303,56 @@ India 🇮🇳
 University:
 Lovely Professional University
 
-CGPA:
+Degree:
+B.Tech Computer Science
+
+Current CGPA:
 8.0
 
 Open To:
-Open Source
-Hackathons
-Internships
-Collaborations
+- AI Internships
+- Open Source
+- Hackathons
+- Collaborations
+- Startup Opportunities
 
-Current Goal:
-Become an AI Engineer
+Dream Role:
+Machine Learning Engineer
 ```
 
 ---
 
-# 📬 PARTY INVITES
+# 📜 DAILY LOG
+
+```text
+[✓] Learning DSA
+[✓] Building InternshipIQ
+[✓] Contributing to Open Source
+[✓] Growing Technical Skills
+[✓] Creating Better Opportunities
+
+Current Streak:
+Never Stop Building
+```
+
+---
+
+# 📬 JOIN MY PARTY
 
 <div align="center">
 
-### Let's Build Something Amazing
+### Let's Build Something Amazing Together 🚀
 
 <a href="mailto:aarupadaiyarjeyapal@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-ff69b4?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-ff69b4?style=for-the-badge&logo=gmail">
 </a>
 
 <a href="https://www.linkedin.com/in/aarupadaiyarkj/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-ff69b4?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-ff69b4?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/Aarupadaiyar">
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-ff69b4?style=for-the-badge&logo=github">
 </a>
 
 </div>
@@ -301,10 +361,10 @@ Become an AI Engineer
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Aarupadaiyar&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge">
+## 💡 Philosophy
 
-<br><br>
+### "Building AI products that help students launch their careers."
 
-### 💡 "Building AI products that help students launch their careers."
+⭐ If you like what I build, let's connect and create something impactful.
 
 </div>
