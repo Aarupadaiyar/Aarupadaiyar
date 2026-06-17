@@ -2,7 +2,7 @@
 
 # ⚡ AARUPADAIYAR KJ
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=AI+Engineer+%F0%9F%A4%96;Founder+of+InternshipIQ+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F;Building+Products+for+Students+Worldwide" />
+<img src="./ChatGPT%20Image%20May%2028,%202026,%2001_14_51%20PM.png" width="350">
 
 <br>
 
@@ -288,7 +288,7 @@ Become an AI Engineer
 ### Let's Build Something Amazing
 
 <a href="mailto:aarupadaiyarjeyapal@gmail.com">
-<img src="./ChatGPT%20Image%20May%2028,%202026,%2001_14_51%20PM.png" width="350">
+<img src="https://img.shields.io/badge/Email-Contact_Me-ff69b4?style=for-the-badge&logo=gmail">
 </a>
 
 <a href="https://www.linkedin.com/in/aarupadaiyarkj/">
