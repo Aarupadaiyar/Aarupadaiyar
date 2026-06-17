@@ -1,154 +1,310 @@
-<h1 align="center">
-🎮 Aarupadaiyar KJ
-</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer+%F0%9F%A4%96;Building+InternshipIQ+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F;Future+ML+Engineer+%F0%9F%93%88"/>
-</p>
+# ⚡ AARUPADAIYAR KJ
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=AI+Engineer+%F0%9F%A4%96;Founder+of+InternshipIQ+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F;Building+Products+for+Students+Worldwide" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ff69b4?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aarupadaiyarkj/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-ff69b4?style=for-the-badge&logo=github)](https://github.com/Aarupadaiyar)
+[![Email](https://img.shields.io/badge/Email-Contact-ff69b4?style=for-the-badge&logo=gmail)](mailto:aarupadaiyarjeyapal@gmail.com)
+
+</div>
 
 ---
 
-# 🧑‍🚀 PLAYER PROFILE
+<table>
+<tr>
+
+<td width="35%">
+
+<img src="./assets/profile.png" width="100%">
+
+</td>
+
+<td width="65%">
+
+## 👋 About Me
+
+I'm **Aarupadaiyar KJ**, a Computer Science student passionate about building AI-powered products that solve real-world problems.
+
+Currently building:
+
+🚀 InternshipIQ
+
+📊 Data Analytics Systems
+
+🤖 Machine Learning Applications
+
+🌐 Personal Brand & Tech Content
+
+My mission is simple:
+
+> Build tools that help students discover opportunities faster.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎮 PLAYER PROFILE
 
 ```yaml
 Name: Aarupadaiyar KJ
-Class: AI Engineer
+
+Class: AI Builder
+
 Level: 21
+
 Guild: Lovely Professional University
-Specialization: Machine Learning
-Current Quest: Build InternshipIQ
-XP Goal: Land AI Internship
+
+Current Mission:
+Build InternshipIQ
+
+XP Earned:
+████████░░ 80%
+
+Focus:
+Machine Learning
+Backend Development
+Open Source
 ```
 
 ---
 
-# 🎯 ACTIVE QUESTS
+# ⚔ CURRENT BOSS FIGHT
 
-| Quest | Progress |
-|---------|---------|
-| DSA Mastery | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70% |
-| Machine Learning | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80% |
-| Open Source | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% |
-| InternshipIQ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90% |
-| Placement Prep | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50% |
+```text
+Landing a High Impact AI Internship
+
+HP:
+███████████████░░░░░ 75%
+
+Weapons Equipped:
+
+⚔ Python
+⚔ Machine Learning
+⚔ FastAPI
+⚔ Data Analytics
+⚔ Problem Solving
+
+Reward:
+
+🏆 AI Engineer Role
+```
 
 ---
 
-# 🏆 ACHIEVEMENTS UNLOCKED
+# 🚀 FEATURED MISSIONS
 
-🏅 Rank #1 Among 200 Teams
+<table>
 
-🏅 GSSoC 2026 Contributor
+<tr>
+
+<td width="33%">
+
+## 🎯 InternshipIQ
+
+AI Internship Discovery Engine
+
+### Achievements
+
+✔ 10,000+ internships
+
+✔ 15+ sources
+
+✔ Smart matching
+
+✔ Recommendation engine
+
+### Tech Stack
+
+Python
+
+FastAPI
+
+MySQL
+
+Pandas
+
+Regex
+
+</td>
+
+<td width="33%">
+
+## 📈 Surge Price Predictor
+
+Machine Learning Forecasting System
+
+### Achievements
+
+✔ 10k+ rides analyzed
+
+✔ Regression models
+
+✔ Feature engineering
+
+✔ Demand prediction
+
+### Tech Stack
+
+Python
+
+Scikit-Learn
+
+NumPy
+
+Pandas
+
+Matplotlib
+
+</td>
+
+<td width="33%">
+
+## 🌐 Portfolio Website
+
+Digital HQ
+
+### Achievements
+
+✔ Personal Branding
+
+✔ Project Showcase
+
+✔ Career Hub
+
+✔ Responsive Design
+
+### Tech Stack
+
+React
+
+HTML
+
+CSS
+
+JavaScript
+
+GitHub Pages
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🌳 SKILL TREE
+
+### 🤖 AI & Data
+
+![Python](https://img.shields.io/badge/Python-90%25-ff69b4?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-80%25-ff69b4?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-85%25-ff69b4?style=for-the-badge)
+
+### ⚙ Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-80%25-ff69b4?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-75%25-ff69b4?style=for-the-badge)
+
+### 📚 CS Fundamentals
+
+![DSA](https://img.shields.io/badge/DSA-70%25-ff69b4?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-80%25-ff69b4?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-85%25-ff69b4?style=for-the-badge)
+
+---
+
+# 📊 BATTLE STATISTICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aarupadaiyar&show_icons=true&theme=radical"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarupadaiyar&layout=compact&theme=radical"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarupadaiyar&theme=radical"/>
+
+</div>
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+🥇 Rank #1 among 200 Teams
+
+🌟 GirlScript Summer of Code Contributor
 
 🏅 Oracle AI Foundations Associate
 
-🏅 58 Salesforce Badges
+📊 Processed 25,000+ Business Records
 
-🏅 Processed 25,000+ Business Records
+🚀 Built InternshipIQ
 
-🏅 Built InternshipIQ
-
----
-
-# ⚔️ SKILL TREE
-
-### AI & Data
-
-![Python](https://img.shields.io/badge/Python-90%25-brightgreen)
-![ML](https://img.shields.io/badge/Machine_Learning-80%25-blue)
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-85%25-orange)
-
-### Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-75%25-success)
-![MySQL](https://img.shields.io/badge/MySQL-70%25-blue)
-
-### CS Fundamentals
-
-![DSA](https://img.shields.io/badge/DSA-70%25-yellow)
-![OOP](https://img.shields.io/badge/OOP-85%25-green)
-![DBMS](https://img.shields.io/badge/DBMS-80%25-blue)
-
----
-
-# 📊 PLAYER STATS
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aarupadaiyar&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarupadaiyar&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 STREAK POWER
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarupadaiyar&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 TROPHY ROOM
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aarupadaiyar&theme=tokyonight&row=2&column=4"/>
-</p>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Aarupadaiyar/Aarupadaiyar/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 🎮 BOSS BATTLE
-
-Current Boss:
-Landing a High-Paying AI Internship
-
-HP:
-██████████░░░░░░░░░░ 50%
-
-Weapons:
-⚔️ Python
-⚔️ Machine Learning
-⚔️ DSA
-⚔️ FastAPI
+🎖 58 Salesforce Trailhead Badges
 
 ---
 
 # 🌍 WORLD MAP
 
-📍 India
+```yaml
+Location:
+India 🇮🇳
 
-🎓 Lovely Professional University
+University:
+Lovely Professional University
 
-🚀 Building InternshipIQ
+CGPA:
+8.0
 
-🤝 Open To Collaborations
+Open To:
+Open Source
+Hackathons
+Internships
+Collaborations
+
+Current Goal:
+Become an AI Engineer
+```
 
 ---
 
-# 📫 PARTY INVITES
+# 📬 PARTY INVITES
 
-<p align="center">
-<a href="https://www.linkedin.com/in/aarupadaiyarkj/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<div align="center">
+
+### Let's Build Something Amazing
 
 <a href="mailto:aarupadaiyarjeyapal@gmail.com">
-<img src="https://img.shields.io/badge/Email-Message-red?style=for-the-badge&logo=gmail"/>
+<img src="./ChatGPT%20Image%20May%2028,%202026,%2001_14_51%20PM.png" width="350">
 </a>
-</p>
+
+<a href="https://www.linkedin.com/in/aarupadaiyarkj/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-ff69b4?style=for-the-badge&logo=linkedin">
+</a>
+
+</div>
 
 ---
 
-## 🎲 RANDOM DEV QUOTE
+<div align="center">
 
-> "Every bug defeated gives XP."
+<img src="https://komarev.com/ghpvc/?username=Aarupadaiyar&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge">
+
+<br><br>
+
+### 💡 "Building AI products that help students launch their careers."
+
+</div>
