@@ -1,67 +1,154 @@
-<h1 align="center">Hey 👋, I'm Aarav</h1>
-<h3 align="center">AI & Data Science Student | Java & Python Developer | Future AI Builder</h3>
+<h1 align="center">
+🎮 Aarupadaiyar KJ
+</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer+%F0%9F%A4%96;Building+InternshipIQ+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F;Future+ML+Engineer+%F0%9F%93%88"/>
+</p>
 
 ---
 
-## 🚀 About Me
+# 🧑‍🚀 PLAYER PROFILE
 
-- 🎓 AI & Data Science Student
-- 💻 Learning DSA in Java & Backend Development
-- 🤖 Exploring AI, ML & Automation Systems
-- 🌱 Currently contributing to Open Source
-- 🧠 Building skills for internships + future startup journey
-- 🌍 Teaching students globally
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Web & Backend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### AI / Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
-
----
-
-## 🔥 Current Focus
-
-```java
-class Aarav {
-    String learning = "DSA + Java";
-    String building = "AI & Automation";
-    String goal = "Tech Entrepreneur";
-}
+```yaml
+Name: Aarupadaiyar KJ
+Class: AI Engineer
+Level: 21
+Guild: Lovely Professional University
+Specialization: Machine Learning
+Current Quest: Build InternshipIQ
+XP Goal: Land AI Internship
 ```
 
 ---
 
-## 📊 GitHub Stats
+# 🎯 ACTIVE QUESTS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/aarupadaiyarkj/
-- GitHub: https://github.com/YOUR_USERNAME
+| Quest | Progress |
+|---------|---------|
+| DSA Mastery | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70% |
+| Machine Learning | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80% |
+| Open Source | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% |
+| InternshipIQ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90% |
+| Placement Prep | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50% |
 
 ---
 
-## ⚡ Quote
+# 🏆 ACHIEVEMENTS UNLOCKED
 
-> “Consistency beats motivation.”
+🏅 Rank #1 Among 200 Teams
+
+🏅 GSSoC 2026 Contributor
+
+🏅 Oracle AI Foundations Associate
+
+🏅 58 Salesforce Badges
+
+🏅 Processed 25,000+ Business Records
+
+🏅 Built InternshipIQ
+
+---
+
+# ⚔️ SKILL TREE
+
+### AI & Data
+
+![Python](https://img.shields.io/badge/Python-90%25-brightgreen)
+![ML](https://img.shields.io/badge/Machine_Learning-80%25-blue)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-85%25-orange)
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-75%25-success)
+![MySQL](https://img.shields.io/badge/MySQL-70%25-blue)
+
+### CS Fundamentals
+
+![DSA](https://img.shields.io/badge/DSA-70%25-yellow)
+![OOP](https://img.shields.io/badge/OOP-85%25-green)
+![DBMS](https://img.shields.io/badge/DBMS-80%25-blue)
+
+---
+
+# 📊 PLAYER STATS
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aarupadaiyar&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarupadaiyar&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 STREAK POWER
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarupadaiyar&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 TROPHY ROOM
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Aarupadaiyar&theme=tokyonight&row=2&column=4"/>
+</p>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Aarupadaiyar/Aarupadaiyar/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🎮 BOSS BATTLE
+
+Current Boss:
+Landing a High-Paying AI Internship
+
+HP:
+██████████░░░░░░░░░░ 50%
+
+Weapons:
+⚔️ Python
+⚔️ Machine Learning
+⚔️ DSA
+⚔️ FastAPI
+
+---
+
+# 🌍 WORLD MAP
+
+📍 India
+
+🎓 Lovely Professional University
+
+🚀 Building InternshipIQ
+
+🤝 Open To Collaborations
+
+---
+
+# 📫 PARTY INVITES
+
+<p align="center">
+<a href="https://www.linkedin.com/in/aarupadaiyarkj/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:aarupadaiyarjeyapal@gmail.com">
+<img src="https://img.shields.io/badge/Email-Message-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+---
+
+## 🎲 RANDOM DEV QUOTE
+
+> "Every bug defeated gives XP."
